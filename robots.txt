@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
 Sitemap: https://YOUR_USERNAME.github.io/SITE_NAME/sitemap.xml
+
+
+Check after github bd.json edit -> Api's level reflect or not
+https://my-json-server.typicode.com/gymdude164-lang/gymdude164-lang.github.io/Motivation 
+
