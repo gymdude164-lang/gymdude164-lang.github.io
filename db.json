@@ -88,6 +88,27 @@
       "Descrip": "tamil",
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Vidaamuyarchi-Pathikichu.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Kingdom-Thadaiyara",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Kingdom-Thadaiyara.mp3"
+    },
+       {
+      "id": 10,
+      "title": "Pirates of the Caribbean-MixTheme",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Pirates%20of%20the%20Caribbean-MixTheme.mp3"
+    },
+       {
+      "id": 11,
+      "title": "Viking-Blood Revenge",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Viking-Blood%20Revenge.mp3"
     }
   ],
   "YogaMeditation": [
