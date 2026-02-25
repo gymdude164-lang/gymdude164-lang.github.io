@@ -67,6 +67,27 @@
       "Descrip": "english",
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Anthem%20For%20Life.mp3"
+    },
+       {
+      "id": 6,
+      "title": "Kingdom-Thadaiyara",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Kingdom-Thadaiyara.mp3"
+    },
+       {
+      "id": 7,
+      "title": "THE ONE-RETRO",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/THE%20ONE-RETRO.mp3"
+    },
+       {
+      "id": 8,
+      "title": "Vidaamuyarchi-Pathikichu",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Vidaamuyarchi-Pathikichu.mp3"
     }
   ],
   "YogaMeditation": [
