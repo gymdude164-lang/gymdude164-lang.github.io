@@ -53,6 +53,20 @@
       "Descrip": "english",
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Beast Mode On",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Beast%20Mode%20On.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Anthem For Life",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Anthem%20For%20Life.mp3"
     }
   ],
   "YogaMeditation": [
