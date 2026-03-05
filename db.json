@@ -172,38 +172,17 @@
     },
      {
       "id": 4,
-      "title": "I Will Rise Again",
-      "Descrip": "tamil",
+      "title": "Unguided Meditation Relaxing 10 Mins",
+      "Descrip": "english",
       "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/I%20Will%20Rise%20Again_1.mp3"
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/YogaMeditation/Unguided%20Meditation%20Relaxing%2010%20Mins%20.mp3"
     },
     {
       "id": 5,
-      "title": "Be THE One",
+      "title": "Deep Meditation -Increase Brain Power",
       "Descrip": "tamil",
       "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
-    },
-    {
-      "id": 6,
-      "title": "Eagle of Fire",
-      "Descrip": "english",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
-    },
-     {
-      "id": 7,
-      "title": "Be THE ",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
-    },
-    {
-      "id": 8,
-      "title": "Eagle of Fire",
-      "Descrip": "english",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/YogaMeditation/Deep%20Meditation%20-Increase%20Brain%20Power.mp3"
     }
   ]
 }
