@@ -32,6 +32,10 @@
       "postId": 1
     }
   ],
+
+
+
+
   "Motivation": [
     {
       "id": 1,
@@ -42,52 +46,8 @@
     },
     {
       "id": 2,
-      "title": "Be THE One Be THE One Be THE One",
-      "Descrip": "english",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
-    },
-    {
-      "id": 3,
-      "title": "Eagle of Fire Eagle of Fire",
-      "Descrip": "english",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
-    }
-  ],
-  "YogaMeditation": [
-    {
-      "id": 1,
-      "title": "Start a Day",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/I%20Will%20Rise%20Again_1.mp3"
-    },
-    {
-      "id": 2,
-      "title": "Be Calm",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
-    },
-    {
-      "id": 3,
-      "title": "Love Breath",
-      "Descrip": "english",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
-    },
-     {
-      "id": 1,
-      "title": "I Will Rise Again",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/I%20Will%20Rise%20Again_1.mp3"
-    },
-    {
-      "id": 2,
       "title": "Be THE One",
-      "Descrip": "tamil",
+      "Descrip": "english",
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
     },
@@ -98,15 +58,148 @@
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
     },
-     {
+    {
+      "id": 4,
+      "title": "Beast Mode On",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Beast%20Mode%20On.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Anthem For Life",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Anthem%20For%20Life.mp3"
+    },
+       {
+      "id": 6,
+      "title": "Kingdom-Thadaiyara",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Kingdom-Thadaiyara.mp3"
+    },
+       {
+      "id": 7,
+      "title": "THE ONE-RETRO",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/THE%20ONE-RETRO.mp3"
+    },
+       {
+      "id": 8,
+      "title": "Vidaamuyarchi-Pathikichu",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Vidaamuyarchi-Pathikichu.mp3"
+    },
+    {
+      "id": 9,
+      "title": "The Dark Knight-MainTheme",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/The%20Dark%20Knight-MainTheme.mp3"
+    },
+       {
+      "id": 10,
+      "title": "Pirates of the Caribbean-MixTheme",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Pirates%20of%20the%20Caribbean-MixTheme.mp3"
+    },
+       {
+      "id": 11,
+      "title": "Viking-Blood Revenge",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Viking-Blood%20Revenge.mp3"
+    },
+       {
+      "id": 12,
+      "title": "Black Clover-Never Give Up",
+      "Descrip": "engligh",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Black%20Clover-Never%20Give%20Up.mp3"
+    },
+       {
+      "id": 13,
+      "title": "A Machine - by Get into Zone",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/A%20Machine%20-%20by%20Get%20into%20Zone.mp3"
+    },
+{
+      "id": 14,
+      "title": "Hit it - by Get into Zone",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Hit%20it%20-%20by%20Get%20into%20Zone.mp3"
+    },
+{
+      "id": 15,
+      "title": "I Rise Like a Phoenix",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/I%20Rise%20Like%20a%20Phoenix.mp3"
+    }
+  ],
+
+
+
+
+
+  "YogaMeditation": [
+    {
+      "id": 1,
+      "title": "10 Mins Morning Relaxing -Birds Singing",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/YogaMeditation/10%20Mins%20Morning%20Relaxing%20-Birds%20Singing.mp3"
+    },
+    {
       "id": 2,
+      "title": "OM CHANTING -10 Minutes",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/YogaMeditation/OM%20CHANTING%20-10%20Minutes.mp3"
+    },
+    {
+      "id": 3,
+      "title": "flute Birds Water Flow -Meditation",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/YogaMeditation/flute%20Birds%20Water%20Flow%20-Meditation.mp3"
+    },
+     {
+      "id": 4,
+      "title": "I Will Rise Again",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/I%20Will%20Rise%20Again_1.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Be THE One",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Eagle of Fire",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Eagle%20of%20Fire.mp3"
+    },
+     {
+      "id": 7,
       "title": "Be THE ",
       "Descrip": "tamil",
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Be%20The%20One.mp3"
     },
     {
-      "id": 3,
+      "id": 8,
       "title": "Eagle of Fire",
       "Descrip": "english",
       "Thumbnail": "typicode",
