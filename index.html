@@ -13,6 +13,10 @@
   <meta name="google-adsense-account" content="ca-pub-5664025156683633">
 </head>
 <body>
+    <div id="visitor-counter">
+  Visitors: <span id="count">Loading...</span>
+</div>
+  
 <header class="topbar">
   <div class="container">
     <a class="brand" href="/">GymDude</a>
@@ -110,7 +114,16 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
+  <script>
+fetch("https://api.counterapi.dev/v2/gymdudes-team-3150/pageview123/up")
+  .then(response => response.json())
+  .then(data => {
+      document.getElementById("visitCount").innerText = data.data.up_count;
+  })
+  .catch(error => {
+      console.error("Visitor counter error:", error);
+  });
+</script>
 <footer class="footer">
   <div class="container">
     <p>© GymDude 2026. Informational content only; no medical advice. Prices and availability may change.</p>
