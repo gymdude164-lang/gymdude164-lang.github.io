@@ -53,6 +53,13 @@
     },
     {
       "id": 3,
+      "title": "100 Pushup,100 Pullup",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/MotivationQuotes/100_pushup_strong_trm.mp3"
+    },
+    {
+      "id": 3,
       "title": "Eagle of Fire",
       "Descrip": "english",
       "Thumbnail": "typicode",
@@ -72,7 +79,14 @@
       "Thumbnail": "typicode",
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/Anthem%20For%20Life.mp3"
     },
-       {
+    {
+      "id": 6,
+      "title": "This is the Time",
+      "Descrip": "english",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/MotivationQuotes/This%20is%20the%20TIme.mp3"
+    },
+    {
       "id": 6,
       "title": "Kingdom-Thadaiyara",
       "Descrip": "tamil",
