@@ -158,39 +158,19 @@
     } 
     ,{
       "id": 16,
-      "title": "The Law, Charming Cop- Sethupathi",
-      "Descrip": "tamil",
+      "title": "Motivation - AI Song",
+      "Descrip": "english",
       "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/The%20Law%2C%20Charming%20Cop-%20Sethupathi.mpeg"
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/moti_1-AI.mpeg"
     }
      ,{
       "id": 17,
-      "title": "Lovely soul- Sethupathi",
-      "Descrip": "tamil",
+      "title": "Motivation 2 - AI Song",
+      "Descrip": "english",
       "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Lovely%20soul-%20Sethupathi.mpeg"
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/English_MotivationSong/moti_2-AI.mpeg"
     }
-     ,{
-      "id": 18,
-      "title": "True Soul Love- Sethupathi.mpeg",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/True%20Soul%20Love-%20Sethupathi.mpeg"
-    }
-     ,{
-      "id": 19,
-      "title": "unnil Kadhal konden- Sethupathi",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/unnil%20Kadhal%20konden-%20Sethupathi.mpeg"
-    }
-     ,{
-      "id": 20,
-      "title": "Two Hearts connected- Sethupathi",
-      "Descrip": "tamil",
-      "Thumbnail": "typicode",
-      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Two%20Hearts%20connected-%20Sethupathi.mpeg"
-    }
+   
   ],
 
 
@@ -241,4 +221,89 @@
       "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/YogaMeditation/10-mins%20Great-Mantra-Hare%20Krishna.mp3"
     }
   ]
+
+
+    "Sethupathi": [
+     {
+      "id": 1,
+      "title": "The Law, Charming Cop- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/The%20Law%2C%20Charming%20Cop-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 2,
+      "title": "Lovely soul- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Lovely%20soul-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 3,
+      "title": "True Soul Love- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/True%20Soul%20Love-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 4,
+      "title": "unnil Kadhal konden- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/unnil%20Kadhal%20konden-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 5,
+      "title": "Two Hearts connected- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Two%20Hearts%20connected-%20Sethupathi.mpeg"
+    }
+  ]
+
+
+
+
+
+
+
+   "Godsongs": [
+     {
+      "id": 1,
+      "title": "The Law, Charming Cop- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/The%20Law%2C%20Charming%20Cop-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 2,
+      "title": "Lovely soul- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Lovely%20soul-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 3,
+      "title": "True Soul Love- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/True%20Soul%20Love-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 4,
+      "title": "unnil Kadhal konden- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/unnil%20Kadhal%20konden-%20Sethupathi.mpeg"
+    }
+     ,{
+      "id": 5,
+      "title": "Two Hearts connected- Sethupathi",
+      "Descrip": "tamil",
+      "Thumbnail": "typicode",
+      "MusicURL": "https://pub-78d78c07b6164f91946d5d03f8be8e49.r2.dev/Tamil%20Song/Two%20Hearts%20connected-%20Sethupathi.mpeg"
+    }
+  ]
+
+  
 }
