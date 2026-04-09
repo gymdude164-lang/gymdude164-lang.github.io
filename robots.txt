@@ -6,6 +6,9 @@ Sitemap: https://YOUR_USERNAME.github.io/SITE_NAME/sitemap.xml
 Check after github bd.json edit -> Api's level reflect or not
 https://my-json-server.typicode.com/gymdude164-lang/gymdude164-lang.github.io/Motivation 
 
+json data - related search (login: SaraSoftwareBack)
+https://chatgpt.com/c/69d777d7-2e00-83e8-9119-f640c5071bd2
+
 
 Website visitor count api: (log : gymdude)
 https://api.counterapi.dev/v2/gymdudes-team-3150/pageview123/up 
@@ -16,3 +19,7 @@ https://affiliate-program.amazon.in/home
 
 
 https://dash.cloudflare.com/c386b016892e3f905a4e5eeaeb2c9341/r2/overview
+
+
+Code like download, favourite - related search (login: SaraSoftwareBack)
+https://chatgpt.com/c/69933184-2c50-83aa-8846-f7c3c34fbdb1
