@@ -23,3 +23,40 @@ https://dash.cloudflare.com/c386b016892e3f905a4e5eeaeb2c9341/r2/overview
 
 Code like download, favourite - related search (login: SaraSoftwareBack)
 https://chatgpt.com/c/69933184-2c50-83aa-8846-f7c3c34fbdb1
+
+
+Template of json DB file
+{
+  "Playlist": [
+    {
+      "id": 1,
+      "title": "Gym-Workout",
+      "Descrip": "Increase & boostup your energy ",
+      "Thumbnail": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Life-Motivation",
+      "Descrip": "Never give up",
+      "Thumbnail": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Yoga-Meditation ",
+      "Descrip": "Deep peace of nature sound ",
+      "Thumbnail": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "travelling",
+      "Descrip": "Travell journey feel to better",
+      "Thumbnail": "typicode"
+    }
+  ],
+  "Musiclist": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
